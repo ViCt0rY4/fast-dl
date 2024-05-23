@@ -1,0 +1,8 @@
+Storm - Bomb/Defuse
+by: FLiPMoDE|Daank
+      (daankvirus420k@icqmail.com)
+textures:  Fingers - jOeSmOe - MattC
+
+Turned into zm_storm by Boban
+
+Notes: Lights are adjusted for "a" light. There are many weapons, grenades and kevlar vests laying around on boxes, try to find them. Rooves are blocked in original de_storm but now they are not (upper rooves are still blocked). There is also a special event that happens 2 minutes after round start.
